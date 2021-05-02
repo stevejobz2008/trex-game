@@ -1,0 +1,4 @@
+1)  the cacti come in a variation of 1,2 and 3 in random pattern, there is also a  variation in the sizes
+2) there is a sound after every jump and a different sound after every multiple of 100
+3) After 500 it's observed that the birds are introduced at different levels and the speed of the ground also increases so,hece it can be noted tha we will have to have one more image of ducking the bird
+4)After the trex dies the restart icon appears and three mediums of sharing the score also appear 
